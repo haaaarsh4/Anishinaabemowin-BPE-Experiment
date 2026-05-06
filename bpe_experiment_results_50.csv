@@ -1,0 +1,448 @@
+word,bpe_result,correct_result,gold_suffix,is_correct,verdict,negation,mode
+adaawesiiwaanen,adaawesiiwaa | n | en,adaawe + siiwaanen,siiwaanen,False,Distort,Neg,Dub
+adaawewaanen,adaawewaa | n | en,adaawe + waanen,waanen,False,Distort,Pos,Dub
+adaawesiiwaambaanen,adaawesiiwaa | mbaan | en,adaawe + siiwaambaanen,siiwaambaanen,False,Distort,Neg,DubPrt
+adaawewaambaanen,adaawewaa | mbaan | en,adaawe + waambaanen,waambaanen,False,Distort,Pos,DubPrt
+adaawesiwaan,adaawesiwaa | n,adaawe + siwaan,siwaan,False,Distort,Neg,Neu
+adaaweyaan,adaawey | aan,adaawe + yaan,yaan,False,Distort,Pos,Neu
+adaawesiwaambaan,adaawesiwaa | mbaan,adaawe + siwaambaan,siwaambaan,False,Distort,Neg,Prt
+adaaweyaambaan,adaawey | aa | mbaan,adaawe + yaambaan,yaambaan,False,Distort,Pos,Prt
+adaawesiiwegwen,adaawesii | we | gwen,adaawe + siiwegwen,siiwegwen,False,Distort,Neg,Dub
+adaawewegwen,adaawe | we | gwen,adaawe + wegwen,wegwen,False,Distort,Pos,Dub
+adaawesiiwegobanen,adaawesii | we | gobanen,adaawe + siiwegobanen,siiwegobanen,False,Distort,Neg,DubPrt
+adaawesiiwegibanen,adaawesii | we | gibanen,adaawe + siiwegibanen,siiwegibanen,False,Distort,Neg,DubPrt
+adaawewegobanen,adaawe | we | gobanen,adaawe + wegobanen,wegobanen,False,Distort,Pos,DubPrt
+adaawewegibanen,adaawe | we | gibanen,adaawe + wegibanen,wegibanen,False,Distort,Pos,DubPrt
+adaawesiweg,adaawesi | we | g,adaawe + siweg,siweg,False,Distort,Neg,Neu
+adaaweyeg,adaawey | e | g,adaawe + yeg,yeg,False,Distort,Pos,Neu
+adaawesiwegoban,adaawesi | we | goban,adaawe + siwegoban,siwegoban,False,Distort,Neg,Prt
+adaawesiwegiban,adaawesi | we | giban,adaawe + siwegiban,siwegiban,False,Distort,Neg,Prt
+adaaweyegoban,adaawey | e | goban,adaawe + yegoban,yegoban,False,Distort,Pos,Prt
+adaaweyegiban,adaawey | e | giban,adaawe + yegiban,yegiban,False,Distort,Pos,Prt
+adaawesiiwanen,adaawesii | wan | en,adaawe + siiwanen,siiwanen,False,Distort,Neg,Dub
+adaawewanen,adaawe | wan | en,adaawe + wanen,wanen,False,Distort,Pos,Dub
+adaawesiiwambanen,adaawesii | w | am | banen,adaawe + siiwambanen,siiwambanen,False,Distort,Neg,DubPrt
+adaawewambanen,adaawe | w | am | banen,adaawe + wambanen,wambanen,False,Distort,Pos,DubPrt
+adaawesiwan,adaawesi | wan,adaawe + siwan,siwan,False,Distort,Neg,Neu
+adaaweyan,adaaweyan,adaawe + yan,yan,False,Erase,Pos,Neu
+adaaweyin,adaawey | i | n,adaawe + yin,yin,False,Distort,Pos,Neu
+adaawesiwamban,adaawesi | w | am | ban,adaawe + siwamban,siwamban,False,Distort,Neg,Prt
+adaaweyamban,adaawey | am | ban,adaawe + yamban,yamban,False,Distort,Pos,Prt
+adaawesiinigwen,adaawesii | ni | gwen,adaawe + siinigwen,siinigwen,False,Distort,Neg,Dub
+adaawenigwen,adaaweni | gwen,adaawe + nigwen,nigwen,False,Distort,Pos,Dub
+adaawesiinigobanen,adaawesii | ni | gobanen,adaawe + siinigobanen,siinigobanen,False,Distort,Neg,DubPrt
+adaawenigobanen,adaaweni | gobanen,adaawe + nigobanen,nigobanen,False,Distort,Pos,DubPrt
+adaawesinid,adaawesini | d,adaawe + sinid,sinid,False,Distort,Neg,Neu
+adaawesinig,adaawesini | g,adaawe + sinig,sinig,False,Distort,Neg,Neu
+adaawenid,adaaweni | d,adaawe + nid,nid,False,Distort,Pos,Neu
+adaawesinigoban,adaawesini | goban,adaawe + sinigoban,sinigoban,False,Distort,Neg,Prt
+adaawenipan,adaaweni | p | an,adaawe + nipan,nipan,False,Distort,Pos,Prt
+adaawesiiwaagwen,adaawesiiwaa | gwen,adaawe + siiwaagwen,siiwaagwen,False,Distort,Neg,Dub
+adaawewaagwen,adaawewaa | gwen,adaawe + waagwen,waagwen,False,Distort,Pos,Dub
+adaawesiiwaagobanen,adaawesiiwaa | gobanen,adaawe + siiwaagobanen,siiwaagobanen,False,Distort,Neg,DubPrt
+adaawewaagobanen,adaawewaa | gobanen,adaawe + waagobanen,waagobanen,False,Distort,Pos,DubPrt
+adaawesigwaa,adaawesi | g | waa,adaawe + sigwaa,sigwaa,False,Distort,Neg,Neu
+adaawewaad,adaawewaa | d,adaawe + waad,waad,False,Distort,Pos,Neu
+adaawesigwaaban,adaawesi | g | waa | ban,adaawe + sigwaaban,sigwaaban,False,Distort,Neg,Prt
+adaawewaapan,adaawewaa | p | an,adaawe + waapan,waapan,False,Distort,Pos,Prt
+adaawesiinigwen,adaawesii | ni | gwen,adaawe + siinigwen,siinigwen,False,Distort,Neg,Dub
+adaawenigwen,adaaweni | gwen,adaawe + nigwen,nigwen,False,Distort,Pos,Dub
+adaawesiinigobanen,adaawesii | ni | gobanen,adaawe + siinigobanen,siinigobanen,False,Distort,Neg,DubPrt
+adaawenigobanen,adaaweni | gobanen,adaawe + nigobanen,nigobanen,False,Distort,Pos,DubPrt
+adaawesinid,adaawesini | d,adaawe + sinid,sinid,False,Distort,Neg,Neu
+adaawesinig,adaawesini | g,adaawe + sinig,sinig,False,Distort,Neg,Neu
+adaawenid,adaaweni | d,adaawe + nid,nid,False,Distort,Pos,Neu
+adaawesinigoban,adaawesini | goban,adaawe + sinigoban,sinigoban,False,Distort,Neg,Prt
+adaawenipan,adaaweni | p | an,adaawe + nipan,nipan,False,Distort,Pos,Prt
+adaawesiigwen,adaawesii | gwen,adaawe + siigwen,siigwen,False,Distort,Neg,Dub
+adaawegwen,adaawe | gwen,adaawe + gwen,gwen,True,Preserve,Pos,Dub
+adaawesiigobanen,adaawesii | gobanen,adaawe + siigobanen,siigobanen,False,Distort,Neg,DubPrt
+adaawegobanen,adaawe | gobanen,adaawe + gobanen,gobanen,True,Preserve,Pos,DubPrt
+adaawesig,adaawesi | g,adaawe + sig,sig,False,Distort,Neg,Neu
+adaawed,adaawe | d,adaawe + d,d,True,Preserve,Pos,Neu
+adaawesigoban,adaawesi | goban,adaawe + sigoban,sigoban,False,Distort,Neg,Prt
+adaawepan,adaawe | p | an,adaawe + pan,pan,False,Distort,Pos,Prt
+adaawesiiwaangen,adaawesiiwaa | ng | en,adaawe + siiwaangen,siiwaangen,False,Distort,Neg,Dub
+adaawewaangen,adaawewaa | ng | en,adaawe + waangen,waangen,False,Distort,Pos,Dub
+adaawesiiwaangibanen,adaawesiiwaa | ngi | banen,adaawe + siiwaangibanen,siiwaangibanen,False,Distort,Neg,DubPrt
+adaawewaangibanen,adaawewaa | ngi | banen,adaawe + waangibanen,waangibanen,False,Distort,Pos,DubPrt
+adaawesiwaang,adaawesiwaa | ng,adaawe + siwaang,siwaang,False,Distort,Neg,Neu
+adaaweyaang,adaawey | aa | ng,adaawe + yaang,yaang,False,Distort,Pos,Neu
+adaawesiwaangiban,adaawesiwaa | ngi | ban,adaawe + siwaangiban,siwaangiban,False,Distort,Neg,Prt
+adaaweyaangiban,adaawey | aa | ngi | ban,adaawe + yaangiban,yaangiban,False,Distort,Pos,Prt
+adaawesiiwangen,adaawesii | wan | g | en,adaawe + siiwangen,siiwangen,False,Distort,Neg,Dub
+adaawewangen,adaawe | wan | g | en,adaawe + wangen,wangen,False,Distort,Pos,Dub
+adaawesiiwangibanen,adaawesii | wan | gibanen,adaawe + siiwangibanen,siiwangibanen,False,Distort,Neg,DubPrt
+adaawewangibanen,adaawe | wan | gibanen,adaawe + wangibanen,wangibanen,False,Distort,Pos,DubPrt
+adaawesiwang,adaawesi | wan | g,adaawe + siwang,siwang,False,Distort,Neg,Neu
+adaaweyang,adaaweyan | g,adaawe + yang,yang,False,Distort,Pos,Neu
+adaaweying,adaawey | i | ng,adaawe + ying,ying,False,Distort,Pos,Neu
+adaawesiwangiban,adaawesi | wan | giban,adaawe + siwangiban,siwangiban,False,Distort,Neg,Prt
+adaaweyangoban,adaaweyan | goban,adaawe + yangoban,yangoban,False,Distort,Pos,Prt
+adaaweyangiban,adaaweyan | giban,adaawe + yangiban,yangiban,False,Distort,Pos,Prt
+adaaweyingoban,adaawey | i | ng | o | ban,adaawe + yingoban,yingoban,False,Distort,Pos,Prt
+adaawesiiwiingen,adaawesii | w | i | i | ng | en,adaawe + siiwiingen,siiwiingen,False,Distort,Neg,Dub
+adaawewiingen,adaawe | w | i | i | ng | en,adaawe + wiingen,wiingen,False,Distort,Pos,Dub
+adaawesiiwiingibanen,adaawesii | w | i | i | ngi | banen,adaawe + siiwiingibanen,siiwiingibanen,False,Distort,Neg,DubPrt
+adaawewiingibanen,adaawe | w | i | i | ngi | banen,adaawe + wiingibanen,wiingibanen,False,Distort,Pos,DubPrt
+adaawesing,adaawesi | ng,adaawe + sing,sing,False,Distort,Neg,Neu
+adaaweng,adaawe | ng,adaawe + ng,ng,True,Preserve,Pos,Neu
+adaawesingiban,adaawesi | ngi | ban,adaawe + singiban,singiban,False,Distort,Neg,Prt
+adaawengiban,adaawe | ngi | ban,adaawe + ngiban,ngiban,False,Distort,Pos,Prt
+adaawesiiwaanen,adaawesiiwaa | n | en,adaawe + siiwaanen,siiwaanen,False,Distort,Neg,Dub
+adaawewaanen,adaawewaa | n | en,adaawe + waanen,waanen,False,Distort,Pos,Dub
+adaawesiiwaambaanen,adaawesiiwaa | mbaan | en,adaawe + siiwaambaanen,siiwaambaanen,False,Distort,Neg,DubPrt
+adaawewaambaanen,adaawewaa | mbaan | en,adaawe + waambaanen,waambaanen,False,Distort,Pos,DubPrt
+adaawesiwaan,adaawesiwaa | n,adaawe + siwaan,siwaan,False,Distort,Neg,Neu
+adaaweyaan,adaawey | aan,adaawe + yaan,yaan,False,Distort,Pos,Neu
+adaawesiwaambaan,adaawesiwaa | mbaan,adaawe + siwaambaan,siwaambaan,False,Distort,Neg,Prt
+adaaweyaambaan,adaawey | aa | mbaan,adaawe + yaambaan,yaambaan,False,Distort,Pos,Prt
+adaawesiiwegwen,adaawesii | we | gwen,adaawe + siiwegwen,siiwegwen,False,Distort,Neg,Dub
+adaawewegwen,adaawe | we | gwen,adaawe + wegwen,wegwen,False,Distort,Pos,Dub
+adaawesiiwegobanen,adaawesii | we | gobanen,adaawe + siiwegobanen,siiwegobanen,False,Distort,Neg,DubPrt
+adaawesiiwegibanen,adaawesii | we | gibanen,adaawe + siiwegibanen,siiwegibanen,False,Distort,Neg,DubPrt
+adaawewegobanen,adaawe | we | gobanen,adaawe + wegobanen,wegobanen,False,Distort,Pos,DubPrt
+adaawewegibanen,adaawe | we | gibanen,adaawe + wegibanen,wegibanen,False,Distort,Pos,DubPrt
+adaawesiweg,adaawesi | we | g,adaawe + siweg,siweg,False,Distort,Neg,Neu
+adaaweyeg,adaawey | e | g,adaawe + yeg,yeg,False,Distort,Pos,Neu
+adaawesiwegoban,adaawesi | we | goban,adaawe + siwegoban,siwegoban,False,Distort,Neg,Prt
+adaawesiwegiban,adaawesi | we | giban,adaawe + siwegiban,siwegiban,False,Distort,Neg,Prt
+adaaweyegoban,adaawey | e | goban,adaawe + yegoban,yegoban,False,Distort,Pos,Prt
+adaaweyegiban,adaawey | e | giban,adaawe + yegiban,yegiban,False,Distort,Pos,Prt
+adaawesiiwanen,adaawesii | wan | en,adaawe + siiwanen,siiwanen,False,Distort,Neg,Dub
+adaawewanen,adaawe | wan | en,adaawe + wanen,wanen,False,Distort,Pos,Dub
+adaawesiiwambanen,adaawesii | w | am | banen,adaawe + siiwambanen,siiwambanen,False,Distort,Neg,DubPrt
+adaawewambanen,adaawe | w | am | banen,adaawe + wambanen,wambanen,False,Distort,Pos,DubPrt
+adaawesiwan,adaawesi | wan,adaawe + siwan,siwan,False,Distort,Neg,Neu
+adaaweyan,adaaweyan,adaawe + yan,yan,False,Erase,Pos,Neu
+adaaweyin,adaawey | i | n,adaawe + yin,yin,False,Distort,Pos,Neu
+adaawesiwamban,adaawesi | w | am | ban,adaawe + siwamban,siwamban,False,Distort,Neg,Prt
+adaaweyamban,adaawey | am | ban,adaawe + yamban,yamban,False,Distort,Pos,Prt
+adaawesiinigwen,adaawesii | ni | gwen,adaawe + siinigwen,siinigwen,False,Distort,Neg,Dub
+adaawenigwen,adaaweni | gwen,adaawe + nigwen,nigwen,False,Distort,Pos,Dub
+adaawesiinigobanen,adaawesii | ni | gobanen,adaawe + siinigobanen,siinigobanen,False,Distort,Neg,DubPrt
+adaawenigobanen,adaaweni | gobanen,adaawe + nigobanen,nigobanen,False,Distort,Pos,DubPrt
+adaawesinid,adaawesini | d,adaawe + sinid,sinid,False,Distort,Neg,Neu
+adaawesinig,adaawesini | g,adaawe + sinig,sinig,False,Distort,Neg,Neu
+adaawenid,adaaweni | d,adaawe + nid,nid,False,Distort,Pos,Neu
+adaawesinigoban,adaawesini | goban,adaawe + sinigoban,sinigoban,False,Distort,Neg,Prt
+adaawenipan,adaaweni | p | an,adaawe + nipan,nipan,False,Distort,Pos,Prt
+adaawesiiwaagwen,adaawesiiwaa | gwen,adaawe + siiwaagwen,siiwaagwen,False,Distort,Neg,Dub
+adaawewaagwen,adaawewaa | gwen,adaawe + waagwen,waagwen,False,Distort,Pos,Dub
+adaawesiiwaagobanen,adaawesiiwaa | gobanen,adaawe + siiwaagobanen,siiwaagobanen,False,Distort,Neg,DubPrt
+adaawewaagobanen,adaawewaa | gobanen,adaawe + waagobanen,waagobanen,False,Distort,Pos,DubPrt
+adaawesigwaa,adaawesi | g | waa,adaawe + sigwaa,sigwaa,False,Distort,Neg,Neu
+adaawewaad,adaawewaa | d,adaawe + waad,waad,False,Distort,Pos,Neu
+adaawesigwaaban,adaawesi | g | waa | ban,adaawe + sigwaaban,sigwaaban,False,Distort,Neg,Prt
+adaawewaapan,adaawewaa | p | an,adaawe + waapan,waapan,False,Distort,Pos,Prt
+adaawesiinigwen,adaawesii | ni | gwen,adaawe + siinigwen,siinigwen,False,Distort,Neg,Dub
+adaawenigwen,adaaweni | gwen,adaawe + nigwen,nigwen,False,Distort,Pos,Dub
+adaawesiinigobanen,adaawesii | ni | gobanen,adaawe + siinigobanen,siinigobanen,False,Distort,Neg,DubPrt
+adaawenigobanen,adaaweni | gobanen,adaawe + nigobanen,nigobanen,False,Distort,Pos,DubPrt
+adaawesinid,adaawesini | d,adaawe + sinid,sinid,False,Distort,Neg,Neu
+adaawesinig,adaawesini | g,adaawe + sinig,sinig,False,Distort,Neg,Neu
+adaawenid,adaaweni | d,adaawe + nid,nid,False,Distort,Pos,Neu
+adaawesinigoban,adaawesini | goban,adaawe + sinigoban,sinigoban,False,Distort,Neg,Prt
+adaawenipan,adaaweni | p | an,adaawe + nipan,nipan,False,Distort,Pos,Prt
+adaawesiigwen,adaawesii | gwen,adaawe + siigwen,siigwen,False,Distort,Neg,Dub
+adaawegwen,adaawe | gwen,adaawe + gwen,gwen,True,Preserve,Pos,Dub
+adaawesiigobanen,adaawesii | gobanen,adaawe + siigobanen,siigobanen,False,Distort,Neg,DubPrt
+adaawegobanen,adaawe | gobanen,adaawe + gobanen,gobanen,True,Preserve,Pos,DubPrt
+adaawesig,adaawesi | g,adaawe + sig,sig,False,Distort,Neg,Neu
+adaawed,adaawe | d,adaawe + d,d,True,Preserve,Pos,Neu
+adaawesigoban,adaawesi | goban,adaawe + sigoban,sigoban,False,Distort,Neg,Prt
+adaawepan,adaawe | p | an,adaawe + pan,pan,False,Distort,Pos,Prt
+adaawesiiwaangen,adaawesiiwaa | ng | en,adaawe + siiwaangen,siiwaangen,False,Distort,Neg,Dub
+adaawewaangen,adaawewaa | ng | en,adaawe + waangen,waangen,False,Distort,Pos,Dub
+adaawesiiwaangibanen,adaawesiiwaa | ngi | banen,adaawe + siiwaangibanen,siiwaangibanen,False,Distort,Neg,DubPrt
+adaawewaangibanen,adaawewaa | ngi | banen,adaawe + waangibanen,waangibanen,False,Distort,Pos,DubPrt
+adaawesiwaang,adaawesiwaa | ng,adaawe + siwaang,siwaang,False,Distort,Neg,Neu
+adaaweyaang,adaawey | aa | ng,adaawe + yaang,yaang,False,Distort,Pos,Neu
+adaawesiwaangiban,adaawesiwaa | ngi | ban,adaawe + siwaangiban,siwaangiban,False,Distort,Neg,Prt
+adaaweyaangiban,adaawey | aa | ngi | ban,adaawe + yaangiban,yaangiban,False,Distort,Pos,Prt
+adaawesiiwangen,adaawesii | wan | g | en,adaawe + siiwangen,siiwangen,False,Distort,Neg,Dub
+adaawewangen,adaawe | wan | g | en,adaawe + wangen,wangen,False,Distort,Pos,Dub
+adaawesiiwangibanen,adaawesii | wan | gibanen,adaawe + siiwangibanen,siiwangibanen,False,Distort,Neg,DubPrt
+adaawewangibanen,adaawe | wan | gibanen,adaawe + wangibanen,wangibanen,False,Distort,Pos,DubPrt
+adaawesiwang,adaawesi | wan | g,adaawe + siwang,siwang,False,Distort,Neg,Neu
+adaaweyang,adaaweyan | g,adaawe + yang,yang,False,Distort,Pos,Neu
+adaaweying,adaawey | i | ng,adaawe + ying,ying,False,Distort,Pos,Neu
+adaawesiwangiban,adaawesi | wan | giban,adaawe + siwangiban,siwangiban,False,Distort,Neg,Prt
+adaaweyangoban,adaaweyan | goban,adaawe + yangoban,yangoban,False,Distort,Pos,Prt
+adaaweyangiban,adaaweyan | giban,adaawe + yangiban,yangiban,False,Distort,Pos,Prt
+adaaweyingoban,adaawey | i | ng | o | ban,adaawe + yingoban,yingoban,False,Distort,Pos,Prt
+adaawesiiwiingen,adaawesii | w | i | i | ng | en,adaawe + siiwiingen,siiwiingen,False,Distort,Neg,Dub
+adaawewiingen,adaawe | w | i | i | ng | en,adaawe + wiingen,wiingen,False,Distort,Pos,Dub
+adaawesiiwiingibanen,adaawesii | w | i | i | ngi | banen,adaawe + siiwiingibanen,siiwiingibanen,False,Distort,Neg,DubPrt
+adaawewiingibanen,adaawe | w | i | i | ngi | banen,adaawe + wiingibanen,wiingibanen,False,Distort,Pos,DubPrt
+adaawesing,adaawesi | ng,adaawe + sing,sing,False,Distort,Neg,Neu
+adaaweng,adaawe | ng,adaawe + ng,ng,True,Preserve,Pos,Neu
+adaawesingiban,adaawesi | ngi | ban,adaawe + singiban,singiban,False,Distort,Neg,Prt
+adaawengiban,adaawe | ngi | ban,adaawe + ngiban,ngiban,False,Distort,Pos,Prt
+adaawesiiwaanen,adaawesiiwaa | n | en,adaawe + siiwaanen,siiwaanen,False,Distort,Neg,Dub
+adaawewaanen,adaawewaa | n | en,adaawe + waanen,waanen,False,Distort,Pos,Dub
+adaawesiiwaambaanen,adaawesiiwaa | mbaan | en,adaawe + siiwaambaanen,siiwaambaanen,False,Distort,Neg,DubPrt
+adaawewaambaanen,adaawewaa | mbaan | en,adaawe + waambaanen,waambaanen,False,Distort,Pos,DubPrt
+adaawesiwaan,adaawesiwaa | n,adaawe + siwaan,siwaan,False,Distort,Neg,Neu
+adaaweyaan,adaawey | aan,adaawe + yaan,yaan,False,Distort,Pos,Neu
+adaawesiwaambaan,adaawesiwaa | mbaan,adaawe + siwaambaan,siwaambaan,False,Distort,Neg,Prt
+adaaweyaambaan,adaawey | aa | mbaan,adaawe + yaambaan,yaambaan,False,Distort,Pos,Prt
+adaawesiiwegwen,adaawesii | we | gwen,adaawe + siiwegwen,siiwegwen,False,Distort,Neg,Dub
+adaawewegwen,adaawe | we | gwen,adaawe + wegwen,wegwen,False,Distort,Pos,Dub
+adaawesiiwegibanen,adaawesii | we | gibanen,adaawe + siiwegibanen,siiwegibanen,False,Distort,Neg,DubPrt
+adaawewegibanen,adaawe | we | gibanen,adaawe + wegibanen,wegibanen,False,Distort,Pos,DubPrt
+adaawesiweg,adaawesi | we | g,adaawe + siweg,siweg,False,Distort,Neg,Neu
+adaaweyeg,adaawey | e | g,adaawe + yeg,yeg,False,Distort,Pos,Neu
+adaawesiwegiban,adaawesi | we | giban,adaawe + siwegiban,siwegiban,False,Distort,Neg,Prt
+adaaweyegoban,adaawey | e | goban,adaawe + yegoban,yegoban,False,Distort,Pos,Prt
+adaaweyegiban,adaawey | e | giban,adaawe + yegiban,yegiban,False,Distort,Pos,Prt
+adaawesiiwanen,adaawesii | wan | en,adaawe + siiwanen,siiwanen,False,Distort,Neg,Dub
+adaawewanen,adaawe | wan | en,adaawe + wanen,wanen,False,Distort,Pos,Dub
+adaawesiiwambanen,adaawesii | w | am | banen,adaawe + siiwambanen,siiwambanen,False,Distort,Neg,DubPrt
+adaawewambanen,adaawe | w | am | banen,adaawe + wambanen,wambanen,False,Distort,Pos,DubPrt
+adaawesiwan,adaawesi | wan,adaawe + siwan,siwan,False,Distort,Neg,Neu
+adaaweyan,adaaweyan,adaawe + yan,yan,False,Erase,Pos,Neu
+adaaweyin,adaawey | i | n,adaawe + yin,yin,False,Distort,Pos,Neu
+adaawesiwamban,adaawesi | w | am | ban,adaawe + siwamban,siwamban,False,Distort,Neg,Prt
+adaaweyamban,adaawey | am | ban,adaawe + yamban,yamban,False,Distort,Pos,Prt
+adaawesiinigwen,adaawesii | ni | gwen,adaawe + siinigwen,siinigwen,False,Distort,Neg,Dub
+adaawenigwen,adaaweni | gwen,adaawe + nigwen,nigwen,False,Distort,Pos,Dub
+adaawesiinigobanen,adaawesii | ni | gobanen,adaawe + siinigobanen,siinigobanen,False,Distort,Neg,DubPrt
+adaawenigobanen,adaaweni | gobanen,adaawe + nigobanen,nigobanen,False,Distort,Pos,DubPrt
+adaawesinid,adaawesini | d,adaawe + sinid,sinid,False,Distort,Neg,Neu
+adaawesinig,adaawesini | g,adaawe + sinig,sinig,False,Distort,Neg,Neu
+adaawenid,adaaweni | d,adaawe + nid,nid,False,Distort,Pos,Neu
+adaawesinigoban,adaawesini | goban,adaawe + sinigoban,sinigoban,False,Distort,Neg,Prt
+adaawenipan,adaaweni | p | an,adaawe + nipan,nipan,False,Distort,Pos,Prt
+adaawesiiwaagwen,adaawesiiwaa | gwen,adaawe + siiwaagwen,siiwaagwen,False,Distort,Neg,Dub
+adaawewaagwen,adaawewaa | gwen,adaawe + waagwen,waagwen,False,Distort,Pos,Dub
+adaawesiiwaagobanen,adaawesiiwaa | gobanen,adaawe + siiwaagobanen,siiwaagobanen,False,Distort,Neg,DubPrt
+adaawewaagobanen,adaawewaa | gobanen,adaawe + waagobanen,waagobanen,False,Distort,Pos,DubPrt
+adaawesigwaa,adaawesi | g | waa,adaawe + sigwaa,sigwaa,False,Distort,Neg,Neu
+adaawewaad,adaawewaa | d,adaawe + waad,waad,False,Distort,Pos,Neu
+adaawesigwaaban,adaawesi | g | waa | ban,adaawe + sigwaaban,sigwaaban,False,Distort,Neg,Prt
+adaawewaapan,adaawewaa | p | an,adaawe + waapan,waapan,False,Distort,Pos,Prt
+adaawesiinigwen,adaawesii | ni | gwen,adaawe + siinigwen,siinigwen,False,Distort,Neg,Dub
+adaawenigwen,adaaweni | gwen,adaawe + nigwen,nigwen,False,Distort,Pos,Dub
+adaawesiinigobanen,adaawesii | ni | gobanen,adaawe + siinigobanen,siinigobanen,False,Distort,Neg,DubPrt
+adaawenigobanen,adaaweni | gobanen,adaawe + nigobanen,nigobanen,False,Distort,Pos,DubPrt
+adaawesinid,adaawesini | d,adaawe + sinid,sinid,False,Distort,Neg,Neu
+adaawesinig,adaawesini | g,adaawe + sinig,sinig,False,Distort,Neg,Neu
+adaawenid,adaaweni | d,adaawe + nid,nid,False,Distort,Pos,Neu
+adaawesinigoban,adaawesini | goban,adaawe + sinigoban,sinigoban,False,Distort,Neg,Prt
+adaawenipan,adaaweni | p | an,adaawe + nipan,nipan,False,Distort,Pos,Prt
+adaawesiigwen,adaawesii | gwen,adaawe + siigwen,siigwen,False,Distort,Neg,Dub
+adaawegwen,adaawe | gwen,adaawe + gwen,gwen,True,Preserve,Pos,Dub
+adaawesiigobanen,adaawesii | gobanen,adaawe + siigobanen,siigobanen,False,Distort,Neg,DubPrt
+adaawegobanen,adaawe | gobanen,adaawe + gobanen,gobanen,True,Preserve,Pos,DubPrt
+adaawesig,adaawesi | g,adaawe + sig,sig,False,Distort,Neg,Neu
+adaawed,adaawe | d,adaawe + d,d,True,Preserve,Pos,Neu
+adaawesigoban,adaawesi | goban,adaawe + sigoban,sigoban,False,Distort,Neg,Prt
+adaawepan,adaawe | p | an,adaawe + pan,pan,False,Distort,Pos,Prt
+adaawesiiwaangen,adaawesiiwaa | ng | en,adaawe + siiwaangen,siiwaangen,False,Distort,Neg,Dub
+adaawewaangen,adaawewaa | ng | en,adaawe + waangen,waangen,False,Distort,Pos,Dub
+adaawesiiwaangibanen,adaawesiiwaa | ngi | banen,adaawe + siiwaangibanen,siiwaangibanen,False,Distort,Neg,DubPrt
+adaawewaangibanen,adaawewaa | ngi | banen,adaawe + waangibanen,waangibanen,False,Distort,Pos,DubPrt
+adaawesiwaang,adaawesiwaa | ng,adaawe + siwaang,siwaang,False,Distort,Neg,Neu
+adaaweyaang,adaawey | aa | ng,adaawe + yaang,yaang,False,Distort,Pos,Neu
+adaawesiwaangiban,adaawesiwaa | ngi | ban,adaawe + siwaangiban,siwaangiban,False,Distort,Neg,Prt
+adaaweyaangiban,adaawey | aa | ngi | ban,adaawe + yaangiban,yaangiban,False,Distort,Pos,Prt
+adaawesiiwangen,adaawesii | wan | g | en,adaawe + siiwangen,siiwangen,False,Distort,Neg,Dub
+adaawewangen,adaawe | wan | g | en,adaawe + wangen,wangen,False,Distort,Pos,Dub
+adaawesiiwangibanen,adaawesii | wan | gibanen,adaawe + siiwangibanen,siiwangibanen,False,Distort,Neg,DubPrt
+adaawewangibanen,adaawe | wan | gibanen,adaawe + wangibanen,wangibanen,False,Distort,Pos,DubPrt
+adaawesiwang,adaawesi | wan | g,adaawe + siwang,siwang,False,Distort,Neg,Neu
+adaaweyang,adaaweyan | g,adaawe + yang,yang,False,Distort,Pos,Neu
+adaaweying,adaawey | i | ng,adaawe + ying,ying,False,Distort,Pos,Neu
+adaawesiwangiban,adaawesi | wan | giban,adaawe + siwangiban,siwangiban,False,Distort,Neg,Prt
+adaaweyangoban,adaaweyan | goban,adaawe + yangoban,yangoban,False,Distort,Pos,Prt
+adaaweyangiban,adaaweyan | giban,adaawe + yangiban,yangiban,False,Distort,Pos,Prt
+adaaweyingoban,adaawey | i | ng | o | ban,adaawe + yingoban,yingoban,False,Distort,Pos,Prt
+adaawesiiwiingen,adaawesii | w | i | i | ng | en,adaawe + siiwiingen,siiwiingen,False,Distort,Neg,Dub
+adaawewiingen,adaawe | w | i | i | ng | en,adaawe + wiingen,wiingen,False,Distort,Pos,Dub
+adaawesiiwiingibanen,adaawesii | w | i | i | ngi | banen,adaawe + siiwiingibanen,siiwiingibanen,False,Distort,Neg,DubPrt
+adaawewiingibanen,adaawe | w | i | i | ngi | banen,adaawe + wiingibanen,wiingibanen,False,Distort,Pos,DubPrt
+adaawesing,adaawesi | ng,adaawe + sing,sing,False,Distort,Neg,Neu
+adaaweng,adaawe | ng,adaawe + ng,ng,True,Preserve,Pos,Neu
+adaawesingiban,adaawesi | ngi | ban,adaawe + singiban,singiban,False,Distort,Neg,Prt
+adaawengiban,adaawe | ngi | ban,adaawe + ngiban,ngiban,False,Distort,Pos,Prt
+adaawesiiwaanen,adaawesiiwaa | n | en,adaawe + siiwaanen,siiwaanen,False,Distort,Neg,Dub
+adaawewaanen,adaawewaa | n | en,adaawe + waanen,waanen,False,Distort,Pos,Dub
+adaawesiiwaambaanen,adaawesiiwaa | mbaan | en,adaawe + siiwaambaanen,siiwaambaanen,False,Distort,Neg,DubPrt
+adaawewaambaanen,adaawewaa | mbaan | en,adaawe + waambaanen,waambaanen,False,Distort,Pos,DubPrt
+adaawesiwaan,adaawesiwaa | n,adaawe + siwaan,siwaan,False,Distort,Neg,Neu
+adaaweyaan,adaawey | aan,adaawe + yaan,yaan,False,Distort,Pos,Neu
+adaawesiwaambaan,adaawesiwaa | mbaan,adaawe + siwaambaan,siwaambaan,False,Distort,Neg,Prt
+adaaweyaambaan,adaawey | aa | mbaan,adaawe + yaambaan,yaambaan,False,Distort,Pos,Prt
+adaawesiiwegwen,adaawesii | we | gwen,adaawe + siiwegwen,siiwegwen,False,Distort,Neg,Dub
+adaawewegwen,adaawe | we | gwen,adaawe + wegwen,wegwen,False,Distort,Pos,Dub
+adaawesiiwegobanen,adaawesii | we | gobanen,adaawe + siiwegobanen,siiwegobanen,False,Distort,Neg,DubPrt
+adaawesiiwegibanen,adaawesii | we | gibanen,adaawe + siiwegibanen,siiwegibanen,False,Distort,Neg,DubPrt
+adaawewegobanen,adaawe | we | gobanen,adaawe + wegobanen,wegobanen,False,Distort,Pos,DubPrt
+adaawewegibanen,adaawe | we | gibanen,adaawe + wegibanen,wegibanen,False,Distort,Pos,DubPrt
+adaawesiweg,adaawesi | we | g,adaawe + siweg,siweg,False,Distort,Neg,Neu
+adaaweyeg,adaawey | e | g,adaawe + yeg,yeg,False,Distort,Pos,Neu
+adaawesiwegoban,adaawesi | we | goban,adaawe + siwegoban,siwegoban,False,Distort,Neg,Prt
+adaawesiwegiban,adaawesi | we | giban,adaawe + siwegiban,siwegiban,False,Distort,Neg,Prt
+adaaweyegoban,adaawey | e | goban,adaawe + yegoban,yegoban,False,Distort,Pos,Prt
+adaaweyegiban,adaawey | e | giban,adaawe + yegiban,yegiban,False,Distort,Pos,Prt
+adaawesiiwanen,adaawesii | wan | en,adaawe + siiwanen,siiwanen,False,Distort,Neg,Dub
+adaawewanen,adaawe | wan | en,adaawe + wanen,wanen,False,Distort,Pos,Dub
+adaawesiiwambanen,adaawesii | w | am | banen,adaawe + siiwambanen,siiwambanen,False,Distort,Neg,DubPrt
+adaawewambanen,adaawe | w | am | banen,adaawe + wambanen,wambanen,False,Distort,Pos,DubPrt
+adaawesiwan,adaawesi | wan,adaawe + siwan,siwan,False,Distort,Neg,Neu
+adaaweyan,adaaweyan,adaawe + yan,yan,False,Erase,Pos,Neu
+adaaweyin,adaawey | i | n,adaawe + yin,yin,False,Distort,Pos,Neu
+adaawesiwamban,adaawesi | w | am | ban,adaawe + siwamban,siwamban,False,Distort,Neg,Prt
+adaaweyamban,adaawey | am | ban,adaawe + yamban,yamban,False,Distort,Pos,Prt
+adaawesiinigwen,adaawesii | ni | gwen,adaawe + siinigwen,siinigwen,False,Distort,Neg,Dub
+adaawenigwen,adaaweni | gwen,adaawe + nigwen,nigwen,False,Distort,Pos,Dub
+adaawesiinigobanen,adaawesii | ni | gobanen,adaawe + siinigobanen,siinigobanen,False,Distort,Neg,DubPrt
+adaawenigobanen,adaaweni | gobanen,adaawe + nigobanen,nigobanen,False,Distort,Pos,DubPrt
+adaawesinid,adaawesini | d,adaawe + sinid,sinid,False,Distort,Neg,Neu
+adaawesinig,adaawesini | g,adaawe + sinig,sinig,False,Distort,Neg,Neu
+adaawenid,adaaweni | d,adaawe + nid,nid,False,Distort,Pos,Neu
+adaawesinigoban,adaawesini | goban,adaawe + sinigoban,sinigoban,False,Distort,Neg,Prt
+adaawenipan,adaaweni | p | an,adaawe + nipan,nipan,False,Distort,Pos,Prt
+adaawesiiwaagwen,adaawesiiwaa | gwen,adaawe + siiwaagwen,siiwaagwen,False,Distort,Neg,Dub
+adaawewaagwen,adaawewaa | gwen,adaawe + waagwen,waagwen,False,Distort,Pos,Dub
+adaawesiiwaagobanen,adaawesiiwaa | gobanen,adaawe + siiwaagobanen,siiwaagobanen,False,Distort,Neg,DubPrt
+adaawewaagobanen,adaawewaa | gobanen,adaawe + waagobanen,waagobanen,False,Distort,Pos,DubPrt
+adaawesigwaa,adaawesi | g | waa,adaawe + sigwaa,sigwaa,False,Distort,Neg,Neu
+adaawewaad,adaawewaa | d,adaawe + waad,waad,False,Distort,Pos,Neu
+adaawesigwaaban,adaawesi | g | waa | ban,adaawe + sigwaaban,sigwaaban,False,Distort,Neg,Prt
+adaawewaapan,adaawewaa | p | an,adaawe + waapan,waapan,False,Distort,Pos,Prt
+adaawesiinigwen,adaawesii | ni | gwen,adaawe + siinigwen,siinigwen,False,Distort,Neg,Dub
+adaawenigwen,adaaweni | gwen,adaawe + nigwen,nigwen,False,Distort,Pos,Dub
+adaawesiinigobanen,adaawesii | ni | gobanen,adaawe + siinigobanen,siinigobanen,False,Distort,Neg,DubPrt
+adaawenigobanen,adaaweni | gobanen,adaawe + nigobanen,nigobanen,False,Distort,Pos,DubPrt
+adaawesinid,adaawesini | d,adaawe + sinid,sinid,False,Distort,Neg,Neu
+adaawesinig,adaawesini | g,adaawe + sinig,sinig,False,Distort,Neg,Neu
+adaawenid,adaaweni | d,adaawe + nid,nid,False,Distort,Pos,Neu
+adaawesinigoban,adaawesini | goban,adaawe + sinigoban,sinigoban,False,Distort,Neg,Prt
+adaawenipan,adaaweni | p | an,adaawe + nipan,nipan,False,Distort,Pos,Prt
+adaawesiigwen,adaawesii | gwen,adaawe + siigwen,siigwen,False,Distort,Neg,Dub
+adaawegwen,adaawe | gwen,adaawe + gwen,gwen,True,Preserve,Pos,Dub
+adaawesiigobanen,adaawesii | gobanen,adaawe + siigobanen,siigobanen,False,Distort,Neg,DubPrt
+adaawegobanen,adaawe | gobanen,adaawe + gobanen,gobanen,True,Preserve,Pos,DubPrt
+adaawesig,adaawesi | g,adaawe + sig,sig,False,Distort,Neg,Neu
+adaawed,adaawe | d,adaawe + d,d,True,Preserve,Pos,Neu
+adaawesigoban,adaawesi | goban,adaawe + sigoban,sigoban,False,Distort,Neg,Prt
+adaawepan,adaawe | p | an,adaawe + pan,pan,False,Distort,Pos,Prt
+adaawesiiwaangen,adaawesiiwaa | ng | en,adaawe + siiwaangen,siiwaangen,False,Distort,Neg,Dub
+adaawewaangen,adaawewaa | ng | en,adaawe + waangen,waangen,False,Distort,Pos,Dub
+adaawesiiwaangibanen,adaawesiiwaa | ngi | banen,adaawe + siiwaangibanen,siiwaangibanen,False,Distort,Neg,DubPrt
+adaawewaangibanen,adaawewaa | ngi | banen,adaawe + waangibanen,waangibanen,False,Distort,Pos,DubPrt
+adaawesiwaang,adaawesiwaa | ng,adaawe + siwaang,siwaang,False,Distort,Neg,Neu
+adaaweyaang,adaawey | aa | ng,adaawe + yaang,yaang,False,Distort,Pos,Neu
+adaawesiwaangiban,adaawesiwaa | ngi | ban,adaawe + siwaangiban,siwaangiban,False,Distort,Neg,Prt
+adaaweyaangiban,adaawey | aa | ngi | ban,adaawe + yaangiban,yaangiban,False,Distort,Pos,Prt
+adaawesiiwangen,adaawesii | wan | g | en,adaawe + siiwangen,siiwangen,False,Distort,Neg,Dub
+adaawewangen,adaawe | wan | g | en,adaawe + wangen,wangen,False,Distort,Pos,Dub
+adaawesiiwangibanen,adaawesii | wan | gibanen,adaawe + siiwangibanen,siiwangibanen,False,Distort,Neg,DubPrt
+adaawewangibanen,adaawe | wan | gibanen,adaawe + wangibanen,wangibanen,False,Distort,Pos,DubPrt
+adaawesiwang,adaawesi | wan | g,adaawe + siwang,siwang,False,Distort,Neg,Neu
+adaaweyang,adaaweyan | g,adaawe + yang,yang,False,Distort,Pos,Neu
+adaaweying,adaawey | i | ng,adaawe + ying,ying,False,Distort,Pos,Neu
+adaawesiwangiban,adaawesi | wan | giban,adaawe + siwangiban,siwangiban,False,Distort,Neg,Prt
+adaaweyangoban,adaaweyan | goban,adaawe + yangoban,yangoban,False,Distort,Pos,Prt
+adaaweyangiban,adaaweyan | giban,adaawe + yangiban,yangiban,False,Distort,Pos,Prt
+adaaweyingoban,adaawey | i | ng | o | ban,adaawe + yingoban,yingoban,False,Distort,Pos,Prt
+adaawesiiwiingen,adaawesii | w | i | i | ng | en,adaawe + siiwiingen,siiwiingen,False,Distort,Neg,Dub
+adaawewiingen,adaawe | w | i | i | ng | en,adaawe + wiingen,wiingen,False,Distort,Pos,Dub
+adaawesiiwiingibanen,adaawesii | w | i | i | ngi | banen,adaawe + siiwiingibanen,siiwiingibanen,False,Distort,Neg,DubPrt
+adaawewiingibanen,adaawe | w | i | i | ngi | banen,adaawe + wiingibanen,wiingibanen,False,Distort,Pos,DubPrt
+adaawesing,adaawesi | ng,adaawe + sing,sing,False,Distort,Neg,Neu
+adaaweng,adaawe | ng,adaawe + ng,ng,True,Preserve,Pos,Neu
+adaawesingiban,adaawesi | ngi | ban,adaawe + singiban,singiban,False,Distort,Neg,Prt
+adaawengiban,adaawe | ngi | ban,adaawe + ngiban,ngiban,False,Distort,Pos,Prt
+adaawesiiwaanen,adaawesiiwaa | n | en,adaawe + siiwaanen,siiwaanen,False,Distort,Neg,Dub
+adaawewaanen,adaawewaa | n | en,adaawe + waanen,waanen,False,Distort,Pos,Dub
+adaawesiiwaambaanen,adaawesiiwaa | mbaan | en,adaawe + siiwaambaanen,siiwaambaanen,False,Distort,Neg,DubPrt
+adaawewaambaanen,adaawewaa | mbaan | en,adaawe + waambaanen,waambaanen,False,Distort,Pos,DubPrt
+adaawesiwaan,adaawesiwaa | n,adaawe + siwaan,siwaan,False,Distort,Neg,Neu
+adaaweyaan,adaawey | aan,adaawe + yaan,yaan,False,Distort,Pos,Neu
+adaawesiwaambaan,adaawesiwaa | mbaan,adaawe + siwaambaan,siwaambaan,False,Distort,Neg,Prt
+adaaweyaambaan,adaawey | aa | mbaan,adaawe + yaambaan,yaambaan,False,Distort,Pos,Prt
+adaawesiiwegwen,adaawesii | we | gwen,adaawe + siiwegwen,siiwegwen,False,Distort,Neg,Dub
+adaawewegwen,adaawe | we | gwen,adaawe + wegwen,wegwen,False,Distort,Pos,Dub
+adaawesiiwegobanen,adaawesii | we | gobanen,adaawe + siiwegobanen,siiwegobanen,False,Distort,Neg,DubPrt
+adaawesiiwegibanen,adaawesii | we | gibanen,adaawe + siiwegibanen,siiwegibanen,False,Distort,Neg,DubPrt
+adaawewegobanen,adaawe | we | gobanen,adaawe + wegobanen,wegobanen,False,Distort,Pos,DubPrt
+adaawewegibanen,adaawe | we | gibanen,adaawe + wegibanen,wegibanen,False,Distort,Pos,DubPrt
+adaawesiweg,adaawesi | we | g,adaawe + siweg,siweg,False,Distort,Neg,Neu
+adaaweyeg,adaawey | e | g,adaawe + yeg,yeg,False,Distort,Pos,Neu
+adaawesiwegoban,adaawesi | we | goban,adaawe + siwegoban,siwegoban,False,Distort,Neg,Prt
+adaawesiwegiban,adaawesi | we | giban,adaawe + siwegiban,siwegiban,False,Distort,Neg,Prt
+adaaweyegoban,adaawey | e | goban,adaawe + yegoban,yegoban,False,Distort,Pos,Prt
+adaaweyegiban,adaawey | e | giban,adaawe + yegiban,yegiban,False,Distort,Pos,Prt
+adaawesiiwanen,adaawesii | wan | en,adaawe + siiwanen,siiwanen,False,Distort,Neg,Dub
+adaawewanen,adaawe | wan | en,adaawe + wanen,wanen,False,Distort,Pos,Dub
+adaawesiiwambanen,adaawesii | w | am | banen,adaawe + siiwambanen,siiwambanen,False,Distort,Neg,DubPrt
+adaawewambanen,adaawe | w | am | banen,adaawe + wambanen,wambanen,False,Distort,Pos,DubPrt
+adaawesiwan,adaawesi | wan,adaawe + siwan,siwan,False,Distort,Neg,Neu
+adaaweyan,adaaweyan,adaawe + yan,yan,False,Erase,Pos,Neu
+adaaweyin,adaawey | i | n,adaawe + yin,yin,False,Distort,Pos,Neu
+adaawesiwamban,adaawesi | w | am | ban,adaawe + siwamban,siwamban,False,Distort,Neg,Prt
+adaaweyamban,adaawey | am | ban,adaawe + yamban,yamban,False,Distort,Pos,Prt
+adaawesiinigwen,adaawesii | ni | gwen,adaawe + siinigwen,siinigwen,False,Distort,Neg,Dub
+adaawenigwen,adaaweni | gwen,adaawe + nigwen,nigwen,False,Distort,Pos,Dub
+adaawesiinigobanen,adaawesii | ni | gobanen,adaawe + siinigobanen,siinigobanen,False,Distort,Neg,DubPrt
+adaawenigobanen,adaaweni | gobanen,adaawe + nigobanen,nigobanen,False,Distort,Pos,DubPrt
+adaawesinid,adaawesini | d,adaawe + sinid,sinid,False,Distort,Neg,Neu
+adaawesinig,adaawesini | g,adaawe + sinig,sinig,False,Distort,Neg,Neu
+adaawenid,adaaweni | d,adaawe + nid,nid,False,Distort,Pos,Neu
+adaawesinigoban,adaawesini | goban,adaawe + sinigoban,sinigoban,False,Distort,Neg,Prt
+adaawenipan,adaaweni | p | an,adaawe + nipan,nipan,False,Distort,Pos,Prt
+adaawesiiwaagwen,adaawesiiwaa | gwen,adaawe + siiwaagwen,siiwaagwen,False,Distort,Neg,Dub
+adaawewaagwen,adaawewaa | gwen,adaawe + waagwen,waagwen,False,Distort,Pos,Dub
+adaawesiiwaagobanen,adaawesiiwaa | gobanen,adaawe + siiwaagobanen,siiwaagobanen,False,Distort,Neg,DubPrt
+adaawewaagobanen,adaawewaa | gobanen,adaawe + waagobanen,waagobanen,False,Distort,Pos,DubPrt
+adaawesigwaa,adaawesi | g | waa,adaawe + sigwaa,sigwaa,False,Distort,Neg,Neu
+adaawewaad,adaawewaa | d,adaawe + waad,waad,False,Distort,Pos,Neu
+adaawesigwaaban,adaawesi | g | waa | ban,adaawe + sigwaaban,sigwaaban,False,Distort,Neg,Prt
+adaawewaapan,adaawewaa | p | an,adaawe + waapan,waapan,False,Distort,Pos,Prt
+adaawesiinigwen,adaawesii | ni | gwen,adaawe + siinigwen,siinigwen,False,Distort,Neg,Dub
+adaawenigwen,adaaweni | gwen,adaawe + nigwen,nigwen,False,Distort,Pos,Dub
+adaawesiinigobanen,adaawesii | ni | gobanen,adaawe + siinigobanen,siinigobanen,False,Distort,Neg,DubPrt
+adaawenigobanen,adaaweni | gobanen,adaawe + nigobanen,nigobanen,False,Distort,Pos,DubPrt
+adaawesinid,adaawesini | d,adaawe + sinid,sinid,False,Distort,Neg,Neu
+adaawesinig,adaawesini | g,adaawe + sinig,sinig,False,Distort,Neg,Neu
+adaawenid,adaaweni | d,adaawe + nid,nid,False,Distort,Pos,Neu
+adaawesinigoban,adaawesini | goban,adaawe + sinigoban,sinigoban,False,Distort,Neg,Prt
+adaawenipan,adaaweni | p | an,adaawe + nipan,nipan,False,Distort,Pos,Prt
+adaawesiigwen,adaawesii | gwen,adaawe + siigwen,siigwen,False,Distort,Neg,Dub
+adaawegwen,adaawe | gwen,adaawe + gwen,gwen,True,Preserve,Pos,Dub
+adaawesiigobanen,adaawesii | gobanen,adaawe + siigobanen,siigobanen,False,Distort,Neg,DubPrt
+adaawegobanen,adaawe | gobanen,adaawe + gobanen,gobanen,True,Preserve,Pos,DubPrt
+adaawesig,adaawesi | g,adaawe + sig,sig,False,Distort,Neg,Neu
+adaawed,adaawe | d,adaawe + d,d,True,Preserve,Pos,Neu
+adaawesigoban,adaawesi | goban,adaawe + sigoban,sigoban,False,Distort,Neg,Prt
+adaawepan,adaawe | p | an,adaawe + pan,pan,False,Distort,Pos,Prt
+adaawesiiwaangen,adaawesiiwaa | ng | en,adaawe + siiwaangen,siiwaangen,False,Distort,Neg,Dub
+adaawewaangen,adaawewaa | ng | en,adaawe + waangen,waangen,False,Distort,Pos,Dub
+adaawesiiwaangibanen,adaawesiiwaa | ngi | banen,adaawe + siiwaangibanen,siiwaangibanen,False,Distort,Neg,DubPrt
+adaawewaangibanen,adaawewaa | ngi | banen,adaawe + waangibanen,waangibanen,False,Distort,Pos,DubPrt
+adaawesiwaang,adaawesiwaa | ng,adaawe + siwaang,siwaang,False,Distort,Neg,Neu
+adaaweyaang,adaawey | aa | ng,adaawe + yaang,yaang,False,Distort,Pos,Neu
+adaawesiwaangiban,adaawesiwaa | ngi | ban,adaawe + siwaangiban,siwaangiban,False,Distort,Neg,Prt
+adaaweyaangiban,adaawey | aa | ngi | ban,adaawe + yaangiban,yaangiban,False,Distort,Pos,Prt
+adaawesiiwangen,adaawesii | wan | g | en,adaawe + siiwangen,siiwangen,False,Distort,Neg,Dub
+adaawewangen,adaawe | wan | g | en,adaawe + wangen,wangen,False,Distort,Pos,Dub
+adaawesiiwangibanen,adaawesii | wan | gibanen,adaawe + siiwangibanen,siiwangibanen,False,Distort,Neg,DubPrt
+adaawewangibanen,adaawe | wan | gibanen,adaawe + wangibanen,wangibanen,False,Distort,Pos,DubPrt
+adaawesiwang,adaawesi | wan | g,adaawe + siwang,siwang,False,Distort,Neg,Neu
+adaaweyang,adaaweyan | g,adaawe + yang,yang,False,Distort,Pos,Neu
+adaaweying,adaawey | i | ng,adaawe + ying,ying,False,Distort,Pos,Neu
+adaawesiwangiban,adaawesi | wan | giban,adaawe + siwangiban,siwangiban,False,Distort,Neg,Prt
+adaaweyangoban,adaaweyan | goban,adaawe + yangoban,yangoban,False,Distort,Pos,Prt
+adaaweyangiban,adaaweyan | giban,adaawe + yangiban,yangiban,False,Distort,Pos,Prt
+adaaweyingoban,adaawey | i | ng | o | ban,adaawe + yingoban,yingoban,False,Distort,Pos,Prt
+adaawesiiwiingen,adaawesii | w | i | i | ng | en,adaawe + siiwiingen,siiwiingen,False,Distort,Neg,Dub
+adaawewiingen,adaawe | w | i | i | ng | en,adaawe + wiingen,wiingen,False,Distort,Pos,Dub
+adaawesiiwiingibanen,adaawesii | w | i | i | ngi | banen,adaawe + siiwiingibanen,siiwiingibanen,False,Distort,Neg,DubPrt
+adaawewiingibanen,adaawe | w | i | i | ngi | banen,adaawe + wiingibanen,wiingibanen,False,Distort,Pos,DubPrt
+adaawesing,adaawesi | ng,adaawe + sing,sing,False,Distort,Neg,Neu
+adaaweng,adaawe | ng,adaawe + ng,ng,True,Preserve,Pos,Neu
+adaawesingiban,adaawesi | ngi | ban,adaawe + singiban,singiban,False,Distort,Neg,Prt
+adaawengiban,adaawe | ngi | ban,adaawe + ngiban,ngiban,False,Distort,Pos,Prt
