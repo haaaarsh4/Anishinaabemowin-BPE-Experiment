@@ -22,4 +22,4 @@ Change `VOCAB_SIZE` in `experiment.py` to 50, 100, or 200 to test different sett
 
 ## Data
 
-Data is from [OjibweLexicon](https://github.com/ELF-Lab/OjibweLexicon) by the ELF Lab and the Ojibwe People's Dictionary, licensed under CC BY-NC-SA 4.0.
+Data is from [OjibweMorph](https://github.com/ELF-Lab/OjibweMorph) by the ELF Lab and the Ojibwe People's Dictionary, licensed under CC BY-NC-SA 4.0.
